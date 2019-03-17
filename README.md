@@ -3,7 +3,7 @@
 
 YUV uzantılı dosyaların 4:4:4 , 4:2:2 , 4:2:0 şeklinde.Bu dosyaların Y değerlerinin düzgün şekilde okunup daha sonrasında .bmp şeklinde
 kayıt edildikten sonra video oynatıcıda gösterimine dayanmaktadır.Bu video ayarlarında bu okunan dosyalara uygun şekilde render yapılıp en ve boy’a göre hazırlanması.<br/>
-Bunların hepsinin arayüze yansıtılıp kullanıcı kolaylığı sağlamasıda bulunmaktadır.
+Bunların hepsi arayüze yansıtılıp kontrolü sağlanmaktadır.
 
 
 
